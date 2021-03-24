@@ -1,9 +1,18 @@
-click==6.7
-Flask==1.0
-itsdangerous==0.24
-Jinja2==2.10
-MarkupSafe==1.0
-pip==9.0.3
-setuptools==39.0.1
-Werkzeug==0.14.1
-wheel==0.30.0
+atomicwrites==1.4.0
+attrs==20.3.0
+click==7.1.2
+colorama==0.4.4
+coverage==5.5
+Flask==1.1.2
+-e git+https://github.com/connorsmith78731/flask-tutorial.git@f890d143317ecf9a14138ff54ca6836f1ff76213#egg=flaskr
+iniconfig==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.2
+toml==0.10.2
+Werkzeug==1.0.1
